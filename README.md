@@ -43,7 +43,7 @@ with classical edge detectors (Sobel + Canny) to produce accurate and perceptual
 ## Example Results
 
 ### Original Image
-![Input](BSDS500\Images\1.jpg)
+![Input](BSDS500/Images/1.jpg)
 
 ### Pb Edge
-![Pb Edge](result\pb_img_0.png)
+![Pb Edge](result/pb_img_0.png)
